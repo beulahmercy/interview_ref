@@ -86,7 +86,7 @@ class Solution {
 ```
 
 
-#### Reverse Linked List
+### Reverse Linked List
 
 ```java
 public ListNode reverseList(ListNode head) {
@@ -104,7 +104,7 @@ public ListNode reverseList(ListNode head) {
     }
 ```
 	
-#### Find Loop in linked list
+### Find Loop in linked list
 
 ```java
 	void detectLoop()
@@ -128,7 +128,7 @@ public ListNode reverseList(ListNode head) {
 ```
 
 	
-#### Delete mid of linked list (Floyd’s Cycle-Finding Algorithm)
+### Delete mid of linked list (Floyd’s Cycle-Finding Algorithm)
 
 ```java
 	static Node deleteMid(Node head)
@@ -162,19 +162,19 @@ public ListNode reverseList(ListNode head) {
     }
 ```
 
-#### Find no of occurances of a char in string methods
+### Find no of occurances of a char in string methods
 https://java2blog.com/count-number-occurrences-character-string-java/
 
-#### Implement LRU cache
+### Implement LRU cache
 https://takeuforward.org/data-structure/implement-lru-cache/
 
-#### Dead lock in java
+### Dead lock in java
 https://www.youtube.com/watch?v=82IYrX0qdWs
 
-#### Advanced Java, Spring, hibernate
+### Advanced Java, Spring, hibernate
 https://jobs4times.com/
 
-#### Algorithms
+### Algorithms
 
 1. Kadane’s Algorithm : Maximum Subarray Sum or Product in an Array
 2. Floyd’s Cycle-Finding Algorithm for finding loop and mid element in the linked list
