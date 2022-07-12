@@ -160,19 +160,19 @@ public ListNode reverseList(ListNode head) {
     }
 ```
 
-#### find no of occurances of a char in string methods
+#### Find no of occurances of a char in string methods
 https://java2blog.com/count-number-occurrences-character-string-java/
 
 #### Implement LRU cache
 https://takeuforward.org/data-structure/implement-lru-cache/
 
-#### dead lock in java
+#### Dead lock in java
 https://www.youtube.com/watch?v=82IYrX0qdWs
 
 #### Advanced Java, Spring, hibernate
 https://jobs4times.com/
 
-#### Algorithm
+#### Algorithms
 
 1. Kadane’s Algorithm : Maximum Subarray Sum or Product in an Array
 2. Floyd’s Cycle-Finding Algorithm for finding loop and mid element in the linked list
